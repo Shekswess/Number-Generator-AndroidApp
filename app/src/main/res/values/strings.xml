@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Number Guessing Game</string>
+    <string name="begin">0</string>
+    <string name="score">Collected points:</string>
+</resources>
